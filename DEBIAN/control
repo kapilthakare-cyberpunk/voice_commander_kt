@@ -1,0 +1,5 @@
+Package: voice-commander-kt
+Version: 1.0
+Architecture: all
+Maintainer: Kapil Thakare
+Description: A simple voice command tool that copies transcribed text to the clipboard.

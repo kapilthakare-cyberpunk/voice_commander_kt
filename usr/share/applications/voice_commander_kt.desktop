@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Voice Commander KT
+Exec=/usr/local/bin/voice_commander_kt
+Type=Application
+Terminal=true
+Icon=/usr/share/applications/microphone.png
+Categories=Utility;
